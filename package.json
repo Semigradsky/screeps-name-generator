@@ -1,0 +1,28 @@
+{
+  "name": "screeps-name-generator",
+  "version": "0.0.0",
+  "description": "Generates names for your screeps",
+  "main": "build/name-generator.js",
+  "dependencies": {
+    "buildify": "~0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Semigradsky/screeps-name-generator.git"
+  },
+  "keywords": [
+    "screeps",
+    "\"name",
+    "generator\""
+  ],
+  "author": "Dmitry Semigradsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Semigradsky/screeps-name-generator/issues"
+  },
+  "homepage": "https://github.com/Semigradsky/screeps-name-generator"
+}
